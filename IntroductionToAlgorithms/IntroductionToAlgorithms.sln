@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2-GettingStarted", "Chapter2-GettingStarted\Chapter2-GettingStarted.csproj", "{7CA94C1F-AB89-4C59-88DF-C19F2C4826C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2GettingStarted", "Chapter2-GettingStarted\Chapter2GettingStarted.csproj", "{7CA94C1F-AB89-4C59-88DF-C19F2C4826C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter2GettingStarted.UnitTests", "Chapter2GettingStarted.UnitTests\Chapter2GettingStarted.UnitTests.csproj", "{4BCAE0BC-BFE0-426A-B6C5-58FEF6EB141A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{7CA94C1F-AB89-4C59-88DF-C19F2C4826C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA94C1F-AB89-4C59-88DF-C19F2C4826C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA94C1F-AB89-4C59-88DF-C19F2C4826C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCAE0BC-BFE0-426A-B6C5-58FEF6EB141A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCAE0BC-BFE0-426A-B6C5-58FEF6EB141A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCAE0BC-BFE0-426A-B6C5-58FEF6EB141A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCAE0BC-BFE0-426A-B6C5-58FEF6EB141A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
