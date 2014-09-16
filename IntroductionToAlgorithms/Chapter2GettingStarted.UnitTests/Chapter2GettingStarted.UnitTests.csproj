@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="BinarySearcherTests.cs" />
     <Compile Include="MergeSorterTests.cs" />
     <Compile Include="SelectionSorterTests.cs" />
     <Compile Include="InsertionSorterTests.cs" />
