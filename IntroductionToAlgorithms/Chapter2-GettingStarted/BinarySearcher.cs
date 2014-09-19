@@ -5,6 +5,8 @@ namespace com.techsnippets.IntroductionToAlgorithms.Chapter2GettingStarted
 {
     /// <summary>
     /// Implements the binary searching technique.
+    /// Exercise 2.3-5
+    /// Page 37
     /// </summary>
     internal class BinarySearcher : ISearcher
     {

@@ -55,6 +55,7 @@
     <Compile Include="SelectionSorterTests.cs" />
     <Compile Include="InsertionSorterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TwoElementsWhoseSumTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Chapter2-GettingStarted\Chapter2GettingStarted.csproj">
